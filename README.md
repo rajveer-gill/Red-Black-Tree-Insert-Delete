@@ -25,17 +25,17 @@ This project implements **Red-Black Trees (RBT)** and **Binary Search Trees (BST
 
 ## File Structure
 
-├── bst.h          # Binary Search Tree header
-├── bst.cc         # Binary Search Tree implementation
-├── rbt.h          # Red-Black Tree header
-├── rbt.cc         # Red-Black Tree implementation
-├── db.h           # Data management header
-├── db.cc          # Data management implementation
-├── main.cc        # Program entry point
-├── Makefile       # Build script
-├── test_t7_s1     # Test file with 7 elements and seed 1
-├── test_t12_s1    # Test file with 12 elements and seed 1
-└── README.md      # Project documentation
+bst.h - Binary Search Tree header
+bst.cc - Binary Search Tree implementation
+rbt.h - Red-Black Tree header
+rbt.cc - Red-Black Tree implementation
+db.h - Data management header
+db.cc - Data management implementation
+main.cc - Program entry point
+Makefile - Build script
+test_t7_s1 - Test file with 7 elements and seed 1
+test_t12_s1 - Test file with 12 elements and seed 1
+README.md - Project documentation
 
 
 ## Installation
